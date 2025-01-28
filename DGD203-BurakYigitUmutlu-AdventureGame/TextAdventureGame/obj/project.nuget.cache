@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QUWTFwWn6NpAe7tlakc3L6QfTzHzA/yhdN/2Jq+vu96aBu3p14+Cp1fl0N1Ei8hdXt6IhatlooNM6g96opZYqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Burak\\Desktop\\gameprogramming\\TextAdventureGame\\TextAdventureGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Burak\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Burak\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Burak\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Burak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

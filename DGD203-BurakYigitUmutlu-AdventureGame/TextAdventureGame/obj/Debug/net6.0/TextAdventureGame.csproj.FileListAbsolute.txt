@@ -1,0 +1,14 @@
+C:\Users\Burak\Desktop\gameprogramming\TextAdventureGame\bin\Debug\net6.0\TextAdventureGame.exe
+C:\Users\Burak\Desktop\gameprogramming\TextAdventureGame\bin\Debug\net6.0\TextAdventureGame.deps.json
+C:\Users\Burak\Desktop\gameprogramming\TextAdventureGame\bin\Debug\net6.0\TextAdventureGame.runtimeconfig.json
+C:\Users\Burak\Desktop\gameprogramming\TextAdventureGame\bin\Debug\net6.0\TextAdventureGame.dll
+C:\Users\Burak\Desktop\gameprogramming\TextAdventureGame\bin\Debug\net6.0\TextAdventureGame.pdb
+C:\Users\Burak\Desktop\gameprogramming\TextAdventureGame\obj\Debug\net6.0\TextAdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\gameprogramming\TextAdventureGame\obj\Debug\net6.0\TextAdventureGame.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\gameprogramming\TextAdventureGame\obj\Debug\net6.0\TextAdventureGame.AssemblyInfo.cs
+C:\Users\Burak\Desktop\gameprogramming\TextAdventureGame\obj\Debug\net6.0\TextAdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\gameprogramming\TextAdventureGame\obj\Debug\net6.0\TextAdventureGame.dll
+C:\Users\Burak\Desktop\gameprogramming\TextAdventureGame\obj\Debug\net6.0\refint\TextAdventureGame.dll
+C:\Users\Burak\Desktop\gameprogramming\TextAdventureGame\obj\Debug\net6.0\TextAdventureGame.pdb
+C:\Users\Burak\Desktop\gameprogramming\TextAdventureGame\obj\Debug\net6.0\TextAdventureGame.genruntimeconfig.cache
+C:\Users\Burak\Desktop\gameprogramming\TextAdventureGame\obj\Debug\net6.0\ref\TextAdventureGame.dll
